@@ -37,8 +37,6 @@ and deploying scalable model architectures to solve complex real-world challenge
   <img src="https://img.shields.io/badge/LSTM-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/GRU-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Autoencoders-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Transfer%20Learning-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Multi--task%20Learning-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Model%20Quantization-4169E1?style=flat"/>
 </div>
 
@@ -47,8 +45,7 @@ and deploying scalable model architectures to solve complex real-world challenge
   <img src="https://img.shields.io/badge/Image%20Classification-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Keypoint%20Detection-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Semantic%20Segmentation-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Instance%20Segmentation-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Panoptic%20Segmentation-4169E1?style=flat"/>
+  <img src="https://img.shields.io/badge/Instance%20& Panoptic%20Segmentation-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Object%20Detection-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/DETR-4169E1?style=flat"/>
@@ -62,26 +59,8 @@ and deploying scalable model architectures to solve complex real-world challenge
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
   <img src="https://img.shields.io/badge/RAG-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/NLTK-9FBC50?style=flat&logo=nltk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI Agent-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cohere%20API-39594C?style=flat"/>
-</div>
-
-### Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-</div>
-
-### Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat"/>
-  <img src="https://img.shields.io/badge/Alembic-4169E1?style=flat"/>
 </div>
 
 ### DevOps
@@ -113,12 +92,3 @@ and deploying scalable model architectures to solve complex real-world challenge
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYasser06&theme=tokyo-night"/>
 </p>
- 
-## 🏆 Certifications & Training
- 
-- Embedded Systems Diploma — **Eng. Ahmed Abd-ElGhafar** 
-- Artificial Intelligence (AI) Summer Training — **ITI** 
-- Microsoft Machine Learning — **DEPI** 
-- Generative AI Summer Training — **ITI** 
-- Machine Learning Diploma — **CSkilled**
-- Deep Learning & System Design Diploma — **CSkilled**
