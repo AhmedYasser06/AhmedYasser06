@@ -46,16 +46,12 @@ and deploying scalable model architectures to solve complex real-world challenge
 <div align="center">
   <img src="https://img.shields.io/badge/Image%20Classification-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Keypoint%20Detection-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Faster%20RCNN-4169E1?style=flat"/>
+  <img src="https://img.shields.io/badge/Semantic%20Segmentation-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Instance%20Segmentation-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Panoptic%20Segmentation-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/DETR-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Semantic%20Segmentation-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/Object%20Detection-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Albumentations-FF6F61?style=flat"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vision%20Transformer%20(ViT)-4169E1?style=flat"/>
+  <img src="https://img.shields.io/badge/DETR-4169E1?style=flat"/>
   <img src="https://img.shields.io/badge/DeepLabV3%2B-4169E1?style=flat"/>
 </div>
 
@@ -63,10 +59,10 @@ and deploying scalable model architectures to solve complex real-world challenge
 <div align="center">
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RAG-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/NLTK-9FBC50?style=flat&logo=nltk&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
+  <img src="https://img.shields.io/badge/RAG-4169E1?style=flat"/>
+  <img src="https://img.shields.io/badge/NLTK-9FBC50?style=flat&logo=nltk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cohere%20API-39594C?style=flat"/>
@@ -99,13 +95,11 @@ and deploying scalable model architectures to solve complex real-world challenge
 
 ### Embedded Systems
 <div align="center">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PIC18-000000?style=flat&logo=MicrochipTechnology&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20C-555555?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-FFCC00?style=flat&logo=freertos&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PIC18-000000?style=flat&logo=MicrochipTechnology&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/AUTOSAR-EE1C25?style=flat&logo=vector&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-FFCC00?style=flat&logo=freertos&logoColor=black"/>
   <img src="https://img.shields.io/badge/UART-0066CC?style=flat"/>
   <img src="https://img.shields.io/badge/SPI-0066CC?style=flat"/>
   <img src="https://img.shields.io/badge/I2C-0066CC?style=flat"/>
