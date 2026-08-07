@@ -86,9 +86,3 @@ and deploying scalable model architectures to solve complex real-world challenge
   <img src="https://img.shields.io/badge/LIN%20Protocol-FF6600?style=flat&logo=protocols&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootloader-4169E1?style=flat"/>
 </div>
-
----
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYasser06&theme=tokyo-night"/>
-</p>
