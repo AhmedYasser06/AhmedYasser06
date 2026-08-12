@@ -10,13 +10,6 @@ track record in conducting research and driving cross-functional collaboration t
 and deploying scalable model architectures to solve complex real-world challenges through predictive analytics and automation.
  
 ---
- 
-## GitHub Statistics
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedYasser06&theme=highcontrast&hide_border=true"/>
-</p>
- 
 ## My Tech Stack
  
 ### AI & Machine Learning
