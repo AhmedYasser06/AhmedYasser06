@@ -9,7 +9,7 @@ Processing, and Large Language Models (LLMs). Skilled in Python, PyTorch, LangGr
 track record in conducting research and driving cross-functional collaboration to deliver impactful AI solutions. Expertise in designing
 and deploying scalable model architectures to solve complex real-world challenges through predictive analytics and automation.
  
----
+
 ## My Tech Stack
  
 ### AI & Machine Learning
